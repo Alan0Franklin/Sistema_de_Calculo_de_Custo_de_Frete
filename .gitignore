@@ -1,0 +1,14 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Compilados
+bin/
+out/
+build/
+*.class
+
+# Mac / Windows / Linux arquivos temporários
+.DS_Store
+Thumbs.db
