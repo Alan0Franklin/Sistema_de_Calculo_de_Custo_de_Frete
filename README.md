@@ -5,7 +5,7 @@ Um sistema de cálculo de custo de frete para simular uma empresa de logística.
 ## Sumário
 
 - [1. Estrutura](#1-estrutura)
-- [2. Descrição das Funções](#2-descricao_das_classes)
+- [2. Descrição das Classes](#2-descricao_das_classes)
 
 
 ## Estrutura <a name="1-estrutura"></a>
